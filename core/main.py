@@ -1,9 +1,6 @@
-import QuantumRegister as QuantumRegister
-
 def main():
-  qreg = QuantumRegister(3)
-
-  print(qreg.ket())
-
+  print("Executing...")
+  
 if __name__ == "__main__":
   main()
+  
